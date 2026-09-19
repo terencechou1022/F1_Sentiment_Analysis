@@ -1,0 +1,18 @@
+# 隱私紅線：任何含他人留言的原始資料，永遠不進公開 repo。
+# repo 只放程式碼、匿名化樣本（≤ 50 則）、彙總統計結果。
+data/raw/
+data/comments*.csv
+data/comments*.json
+data/gold_set*.csv
+data/gold_set*.json
+data/*_audit.json
+
+# 權杖與金鑰
+.env
+*token*.txt
+Gemini_API_Key.txt
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/

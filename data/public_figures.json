@@ -1,0 +1,20 @@
+{
+  "_note": "公眾人物白名單。這些名字必須保留，否則分析就沒有對象可分析。這是起始集，需要 Terence 複核：他經營粉專，知道社群實際慣用的譯名與簡稱，而譯名沒有標準答案，我不該自行決定。",
+  "_todo": "補齊 2026 年賽季完整車手名單的繁中譯名、粉專慣用簡稱（例如 VER／NOR 這類三字母代碼），並刪掉已退出的車隊。",
+  "drivers_en": [
+    "Verstappen", "Norris", "Piastri", "Leclerc", "Hamilton",
+    "Russell", "Sainz", "Alonso", "Albon", "Hulkenberg",
+    "Tsunoda", "Gasly", "Ocon", "Stroll", "Bortoleto",
+    "Antonelli", "Hadjar", "Lawson", "Colapinto", "Bearman"
+  ],
+  "teams_en": [
+    "Red Bull", "McLaren", "Ferrari", "Mercedes", "Aston Martin",
+    "Alpine", "Williams", "Haas", "Sauber", "Racing Bulls"
+  ],
+  "teams_zh": [
+    "紅牛", "麥拉倫", "法拉利", "賓士", "奧斯頓馬丁", "威廉士"
+  ],
+  "officials_zh": [
+    "賽會", "賽事總監", "審查團", "賽事乾事"
+  ]
+}
